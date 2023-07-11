@@ -8,7 +8,7 @@ export default function MockNotesButton() {
   const dispatch = useDispatch()
 
   return (
-    <div className={classes.root}>
+    <div className={classes.root}>{/* 
       <Button
         variant="contained"
         color="secondary"
@@ -16,7 +16,7 @@ export default function MockNotesButton() {
         onClick={() => dispatch(mockNotes())}
       >
         MOCK NOTES
-      </Button>
+      </Button> */}
     </div>
   )
 }

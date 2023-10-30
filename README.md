@@ -1,13 +1,3 @@
-Manage your work, home, Personal tasks with notes app. Add ability to add, edit, delete, and mark them as completed. Additional features include searching, filtering and visualizing completion progress.
-
-### :point_right: [DEMO](https://zipzip1312.github.io/React-Notes-App/) :rocket:
-
-:star: Original project
-[bigsondev.com](https://bigsondev.com/projects/notes-app-project/)
-
-:star: Designed by
-[Milena Ulman](https://www.behance.net/milenaulman)
-
 ## :hammer: Technologies & Tools
 
 - React
